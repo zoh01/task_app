@@ -84,7 +84,7 @@ class HomeScreen extends StatelessWidget {
                         ),
                       ),
                     ),
-                    SizedBox(height: ZohSizes.iconXs),
+                    SizedBox(height: ZohSizes.md),
                     FadeInUp(
                       child: Text(
                         ZohTextString.emptyDesc,

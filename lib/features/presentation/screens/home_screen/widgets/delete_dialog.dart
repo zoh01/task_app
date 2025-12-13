@@ -20,8 +20,8 @@ Future<bool?> showDeleteDialog(BuildContext context) {
       title: Row(
         children: [
           Icon(Icons.warning_amber_rounded,
-              color: Colors.redAccent.shade200, size: 28),
-          const SizedBox(width: 8),
+              color: Colors.redAccent.shade200, size: 27),
+          const SizedBox(width: 10),
           const Text(
             'Delete Task?',
             style: TextStyle(
@@ -39,7 +39,7 @@ Future<bool?> showDeleteDialog(BuildContext context) {
           color: isDark ? Colors.white70 : Colors.black87,
         ),
       ),
-      actionsPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+      actionsPadding: const EdgeInsets.symmetric(horizontal: 12, vertical: 7),
       actions: [
         OutlinedButton(
           style: OutlinedButton.styleFrom(
