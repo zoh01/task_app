@@ -119,11 +119,16 @@ The app follows a **Clean Architecture pattern**, separating code into three mai
 
 ---
 
-###  **Author / Contact** section  
-
 ## 👤 Author
-**Adebayo Wariz / zoh01**  
-Email: adebayozoh@gmail.com  
+### Adebayo Wariz  
+
+## 📧 Contact
+Whatsapp: +234 702 513 6608
+
+Email: adebayozoh@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
+
 GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
 ---
