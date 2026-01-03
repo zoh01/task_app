@@ -1,4 +1,4 @@
-# Flutter Task App
+# 📰 Flutter Task App
 
 ## 📌 Introduction
 This Flutter Task App was developed as part of a coding assessment and learning project.  
