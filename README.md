@@ -105,6 +105,18 @@ The app follows a **Clean Architecture pattern**, separating code into three mai
    
          git clone <https://github.com/zoh01/task_app>
 
+2. Enter project folder
+   
+       cd task_app
+
+3. Get dependencies
+  
+       flutter pub get
+
+4. Run the app
+  
+       flutter run
+
 ---
 
 ###  **Author / Contact** section  
