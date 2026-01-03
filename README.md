@@ -102,8 +102,8 @@ The app follows a **Clean Architecture pattern**, separating code into three mai
 
 ## How to Run the Project
 1. Clone the repository:
-   ```bash
-   git clone <https://github.com/zoh01/task_app>
+   
+         git clone <https://github.com/zoh01/task_app>
 
 ---
 
