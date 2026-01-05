@@ -135,7 +135,7 @@ GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
 ## 📄 License
    
-This project is licensed under the MIT License - see LICENSE file.
+This project is licensed under the MIT License - see [LICENSE](#-LICENSE) file.
 
     MIT License
     
